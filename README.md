@@ -97,13 +97,14 @@ All Python code was implemented in **VS Code**.
 LUXURY_HOUSING_ANALYTICS/
 │
 ├── Data_clean_and_MySQL_Insertion.py
+├── Luxury_housing.pbix
 ├── Luxury_Housing_Bangalore.csv
 ├── Luxury_Housing_Bangalore_Cleaned.csv
 ├── Queries.sql
 ├── README.md
-└── requirements.txt
-
-
+├── requirements.txt
+├── screenshot_project_outcome1.png
+└── screenshot_project_outcome2.png
 
 ---
 
@@ -122,6 +123,15 @@ LUXURY_HOUSING_ANALYTICS/
 ## 📚 Dataset Source
 
 Synthetic / Real estate dataset of Bangalore luxury housing (100K+ records) by Guvi
+
+---
+
+## 📸 Project Outcome
+Here are screenshots of the Power BI dashboard and project outcome:
+
+![Project Outcome 1](screenshot_project_outcome1.png)  
+![Project Outcome 2](screenshot_project_outcome2.png)
+
 
 ---
 
