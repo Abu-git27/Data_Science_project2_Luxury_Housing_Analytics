@@ -93,13 +93,16 @@ All Python code was implemented in **VS Code**.
 ---
 
 ## 📂 File Structure
-L_HOUSING/
+## 📂 File Structure
+LUXURY_HOUSING_ANALYTICS/
 │
 ├── Data_clean_and_MySQL_Insertion.py
 ├── Luxury_Housing_Bangalore.csv
 ├── Luxury_Housing_Bangalore_Cleaned.csv
+├── Queries.sql
 ├── README.md
 └── requirements.txt
+
 
 
 ---
